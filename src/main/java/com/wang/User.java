@@ -11,11 +11,7 @@ public class User {
 
     public static void main(String[] args) {
 
-        System.out.println("今天天气好晴朗");
-        System.out.println("说点什么呢 大哥");
-        System.out.println("哈哈哈哈哈哈");
 
-        System.out.println("嘿嘿嘿额嘿嘿诶");
 
 
     }
