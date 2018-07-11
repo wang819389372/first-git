@@ -14,6 +14,8 @@ public class User {
         System.out.println("说点什么呢 大哥");
         System.out.println("哈哈哈哈哈哈");
 
+        System.out.println("嘿嘿嘿额嘿嘿诶");
+
 
     }
 }
