@@ -12,8 +12,6 @@ public class User {
 
         System.out.println("今天天气好晴朗");
         System.out.println("说点什么呢 大哥");
-        System.out.println("哈哈哈哈哈哈");
-
 
     }
 }
