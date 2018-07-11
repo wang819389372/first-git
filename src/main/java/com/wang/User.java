@@ -7,5 +7,7 @@ public class User {
 
     private int testGit;
 
-
+    public static void main(String[] args) {
+        System.out.println("今天天气好晴朗");
+    }
 }
