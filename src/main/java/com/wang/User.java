@@ -7,6 +7,7 @@ public class User {
 
     private int testGit;
     private int wangGit2;
+    private int getWangGit3;
 
     public static void main(String[] args) {
 
