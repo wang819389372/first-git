@@ -6,6 +6,7 @@ public class User {
     private int score;
 
     private int testGit;
+    private int wangGit2;
 
     public static void main(String[] args) {
         System.out.println("今天天气好晴朗");
