@@ -5,5 +5,7 @@ public class User {
     private String age;
     private int score;
 
+    private int testGit;
+
 
 }
